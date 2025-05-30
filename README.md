@@ -17,7 +17,7 @@
 2. Unzip
 3. Choose `with` or `without` Cargo
 4. Go to the `for-mods-files-manually` folder
-5. Copy the `My Games` folder to n at the path `%USERPROFILE%\Documents\`n
+5. Copy the `My Games` folder to `n` at the path `%USERPROFILE%\Documents\`n
 6. If you have `OneDrive` enabled for `Documents`, then `n` will be `%USERPROFILE%\OneDrive\`, go to `Documents`\n
 7. Exit `for-mods-files-manually` and go to `for-substitution-in-initial.pak`
 8. There are `4` folders here, and inside each folder is a `[media]` folder
