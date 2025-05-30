@@ -10,7 +10,7 @@
 
 - [Reworked "Tires and Cargo Mod Plus"](./reworkedtiresandcargomodplus/): Improved "free" version of "[Tires and Cargo Mod Plus](https://mod.io/g/snowrunner/m/tires-cargo-mod)" / "[Tires Mod Plus without Cargo](https://mod.io/g/snowrunner/m/tires-mod-plus-without-cargo)" mod, is also present on [mod.io](https://mod.io/g/snowrunner/m/reworked-tires-and-cargo-mod-plus)
 
-### Installation Reworked "Tires and Cargo Mod Plus / Tires Mod Plus without Cargo"
+### Installation Reworked "Tires and Cargo Mod Plus" / "Tires Mod Plus without Cargo"
 
 0. Requires the `WinRAR` program
 1. Download the `.zip` archive from the modification folder
@@ -36,7 +36,7 @@
 
 - [Reworked "Tires and Cargo Mod Plus"](./reworkedtiresandcargomodplus/): Улучшенная "free" версия мода "[Tires and Cargo Mod Plus](https://mod.io/g/snowrunner/m/tires-cargo-mod)" / "[Tires Mod Plus without Cargo](https://mod.io/g/snowrunner/m/tires-mod-plus-without-cargo)", так же присутствует на [mod.io](https://mod.io/g/snowrunner/m/reworked-tires-and-cargo-mod-plus)
 
-### Установка Reworked "Tires and Cargo Mod Plus / Tires Mod Plus without Cargo"
+### Установка Reworked "Tires and Cargo Mod Plus" / "Tires Mod Plus without Cargo"
 
 0. Требуется программа `WinRAR`
 1. Загрузите архив `.zip` из папки модификации
